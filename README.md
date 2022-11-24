@@ -4,7 +4,7 @@
 
 🤍 Specializing in:
   - Vanilla JavaScript, TypeScript
-  - React
+  - Vite React
   - MySQL, Sequelize
   - Bootstrap tbh
   
