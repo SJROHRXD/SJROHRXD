@@ -1,6 +1,6 @@
 ### Hi, I’m Sarah ###
 
-🌼 *I'm currently a TA with 2U / Trilogy's Full-Stack Web Development Program*
+🌼 *I'm currently a TA with 2U / edX's Full-Stack Web Development Program*
 
 🤍 Specializing in:
   - Vanilla JavaScript, TypeScript
