@@ -1,14 +1,18 @@
 ### Hi, I’m Sarah ###
 
-🌼 *I'm currently a TA with 2U / edX's Full-Stack Web Development Program*
+🌼 *I'm currently a TA with EdX's Full-Stack Web Development Program*
 
 🤍 Specializing in:
   - Vanilla JavaScript, TypeScript
-  - Vite React
-  - MySQL, Sequelize
-  - Bootstrap tbh
+  - Vite ⚡ React
+  - PowerShell 🆕
+  - MySQL
   
  👁‍🗨 I prefer semicolons
+
+🌷 TO DO:
+[] build more Command-Line Apps
+[] Python things
 
 <!---
 SJROHRXD/SJROHRXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
