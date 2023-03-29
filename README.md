@@ -12,9 +12,9 @@
 
 🌷 TO DO:
 
-◻ build more Command-Line Apps
-
-◻ Python things
+- build more Command-Line Apps
+- 90DaysOfDevOps 
+- Python things
 
 <!---
 SJROHRXD/SJROHRXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
